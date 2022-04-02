@@ -1,16 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4469996e-b086-4035-8e72-9de5f9468cc9" name="Changes" comment="" />
+    <list default="true" id="4469996e-b086-4035-8e72-9de5f9468cc9" name="Changes" comment="Dark theme extended. HTML issues fixed.">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero-image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-email-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-open-page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-phone-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pattern-dots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pattern-lines-hero.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pattern-lines.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/progress-pattern.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/img/accessories.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/img/furniture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/img/gloevk-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/img/gloevk-examples.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/img/gloevk-logo-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/img/lighting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-css.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon-css.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-email.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon-email.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-html.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon-html.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon-phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="261G2w7zHPlCDkGOHTM7OVR9phw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/project/style.css" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -36,10 +67,15 @@
       <workItem from="1646584837186" duration="955000" />
       <workItem from="1646585815089" duration="2553000" />
       <workItem from="1648731341828" duration="12430000" />
+      <workItem from="1648850281427" duration="13143000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dark theme extended. HTML issues fixed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dark theme extended. HTML issues fixed." />
   </component>
 </project>
